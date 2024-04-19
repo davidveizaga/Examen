@@ -1,0 +1,112 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    
+}
+.navegador{
+    height: 100px;
+    width: 100%;
+    
+
+
+}
+
+.nave{
+    display: flex;
+    width: 100%;
+    height: 100px;
+    color: rgb(173, 194, 212);
+
+}
+.title{
+    display: flex;
+    width: 100%;
+    align-items: center;
+    flex-direction: column;
+ 
+}
+.Caja1{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    background-image: url(portadasai-1-1024x683.jpg);
+    height: 500px;
+    background-position: center;
+    background-size: cover;
+    color: aliceblue;
+    
+}
+.Caja1 h1{
+    display: flex;
+    font-size: large;
+    justify-content: center;
+}
+.navegacion2 div{
+    display: flex;
+    width: 100%;
+    height: 40px;
+   align-content: space-around;
+    
+
+}
+.Caja2{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-position: center;
+    background-size: cover;
+    color: aliceblue;
+    background-color: black;
+}
+.titulo2 h2{ 
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+hr{
+    display: flex;
+    max-width: 100%;
+    
+}
+.p2{
+    display: flex;
+    justify-content: center;
+    height: 50px;
+}
+.titulo3 h3{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+
+}
+.p{
+    display: flex;
+    justify-content: center;
+}
+.fotos div p {
+    display: flex;
+    width: 100%;
+    height: 40px;
+    flex-direction: column;
+    justify-content: center;
+    background-position: center;
+    background-size: cover;
+    align-items: center;
+    
+   
+}
+
+.navegacion3 nav{
+    display: flex;
+    width: 100%;
+    height: 20px;
+   
+
+    
+
+    
+
+}
